@@ -13,8 +13,8 @@ async function getAivoLoginToken() {
     const res = await fetch({
         query: `mutation{
             login(data:{
-              email:"mike@aivo.ai",
-              password:"aA26761683"
+              email:"aaa@aaa.com",
+              password:"aaaaaaa"
             }){
               token
             }
