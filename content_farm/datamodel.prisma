@@ -1,0 +1,7 @@
+type Video {
+  id: ID! @unique @id
+  keyword: String!
+  title: String!
+  text: String!
+}
+
