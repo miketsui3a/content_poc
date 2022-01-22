@@ -14,7 +14,7 @@
     "cron": "^1.8.2",
     "google-trends-api": "^4.9.0",
     "lien": "^3.3.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "opn": "^6.0.0",
     "pretty-bytes": "^5.3.0",
     "r-json": "^1.2.9",
